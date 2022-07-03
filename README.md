@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naida1210
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
